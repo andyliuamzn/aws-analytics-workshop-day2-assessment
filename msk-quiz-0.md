@@ -38,6 +38,7 @@ Encrypt data at rest: Use AWS managed key
 
 Monitoring: Basic monitoring
 Broker log delivery: Deliver to Amazon CloudWatch Logs
+    |- Log group: aws-analytics-workshop-log-group
 ```
 
 3. Create the [EC2 instance](https://console.aws.amazon.com/ec2/) with the following settings.

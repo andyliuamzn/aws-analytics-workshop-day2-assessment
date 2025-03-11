@@ -1,7 +1,7 @@
 ## Test 3
 
 
-1. Create Topic, test3 with 1 partitions and 2 replicas.
+1. Create Topic, test3 with 1 partition and 2 replicas.
 ```
 $ ./kafka-topics.sh --bootstrap-server $BS --create --topic test3 --partitions 1 --replication-factor 2
 ```

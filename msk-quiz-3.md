@@ -12,6 +12,6 @@ $ ./kafka-producer-perf-test.sh --topic test3 --num-records 307200000000 --recor
 
 ## Questions
 
-1. Please compare the BK1's CpuUser and BK2's CpuUser metrics, and describe what you observed.
+1. Please compare the CpuUser metric of the brokers in your cluster, and describe what you observed.
 2. What is the possible reason ?
 3. Do you have any idea about how to solve the above issue ? e.g update or increase the configuration etc.

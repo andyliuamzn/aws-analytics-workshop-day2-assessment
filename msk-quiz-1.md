@@ -1,4 +1,4 @@
-## Test1
+## Test 1
 
 
 1. Create Topic, test1 with 2 partitions and 2 replicas.

@@ -8,7 +8,7 @@ $ ./kafka-topics.sh --bootstrap-server $BS --create --topic test2 --partitions 2
 2. Create producer and try to send the data into test2.
 ```
 $ ./kafka-console-producer.sh --bootstrap-server $BS --topic test2
-$ ... // send data
+$ ...<type the message you want to send>
 ```
 
 ## Questions

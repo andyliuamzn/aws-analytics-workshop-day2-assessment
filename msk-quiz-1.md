@@ -28,4 +28,6 @@ $ ./kafka-log-dirs.sh --bootstrap-server $BS --topic-list test1 --describe
 1. Please take the screenshot of the kafka-log-dirs.sh result and try to explain it.  
 2. What is the data size of the Topic test1 ?
 3. Wait for 10 mins and try to execute the kafka-log-dirs.sh command again to check if the retention policy works or not.
-4. Please describe what the final result is in Question 3 and explain why we get the result like that.
+4. If the 3rd answer is yes, please go to Question 5. If the 3rd answer is no, please go to Question 6.
+5. (Optional) Please explain what you observed.
+6. (Optional) Please explain why the retention didn't kick in while we've configured retention.bytes as 1 GB.

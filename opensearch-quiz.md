@@ -2,7 +2,7 @@ Tasks you need to complete on this learn to hire session.
 If you cannot complete all task, provide the details where did you stuck and how did you investigate the issue.
 And what is next you will try in this situation, the more details the better.
 
-"The majority of the exercises can be completed using the "Dev Tool" in Opensearch Dashboard but not all.
+#### "The majority of the exercises can be completed using the "Dev Tool" in Opensearch Dashboard but not all.
 ---
 #### 1. Set up a public-based OpenSearch 2.17 cluster (Choose just 1 m5.large data node without dedicated master node while optimizing cost).
 * You can refer to this AWS Doc https://docs.aws.amazon.com/opensearch-service/latest/developerguide/vpc.html

@@ -17,7 +17,7 @@ And what is next you will try in this situation, the more details the better.
 * Details of how you process the data, what issues have you encountered in your work?
 
 #### 4. Create visualizations and a dashboard. Create two simple visualizations, and then create one dashboard that incorporates the visualizations you've created.
-* The screenshot of the dashboard you created.
+* The screenshot of the dashboard you created and each of settings.
   
 #### 5. Using the "opensearch_dashboards_sample_data_flights" dataset, write an Elasticsearch query to find out how many flights have delays.
 * The query you use to find out the total of flight delay
